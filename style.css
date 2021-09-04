@@ -1,0 +1,12 @@
+#check{
+    background-color:lightgreen;
+    border-radius:10px;
+    border-top:10px  solid red;
+    padding:10px;
+    float:none; 
+    text-align:left;
+    width:70px;
+}
+body{
+    background-color:rgba(221, 236, 221, 0.027);
+}
